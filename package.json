@@ -1,0 +1,20 @@
+{
+  "name": "@web2033/default.css",
+  "version": "1.0.0",
+  "description": "Default CSS to kickstart a new project. For personal use.",
+  "main": "default.css",
+  "style": "default.css",
+  "files": [
+    "default.css"
+  ],
+  "keywords": [
+    "css",
+    "normalize",
+    "normalize.css",
+    "reset",
+    "default",
+    "remedy.css"
+  ],
+  "author": "Eugene Kopich <github@web2033.com>",
+  "license": "MIT"
+}
