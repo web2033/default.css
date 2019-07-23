@@ -16,5 +16,6 @@
     "remedy.css"
   ],
   "author": "Eugene Kopich <github@web2033.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "web2033/default.css"
 }

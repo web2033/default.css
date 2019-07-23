@@ -10,7 +10,7 @@ npm install @web2033/default.css
 
 **CDN**
 
-See https://web2033.com/cdn/css/normalize/default.css
+https://web2033.com/cdn/css/normalize/default.css
 
 **in SASS files**
 
