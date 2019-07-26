@@ -1,6 +1,6 @@
 {
   "name": "@web2033/default.css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Default CSS to kickstart a new project. Alternative to CSS resets / normalize.",
   "main": "default.css",
   "style": "default.css",
