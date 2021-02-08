@@ -1,3 +1,5 @@
+⚠ Archived. Superseded by https://github.com/web2033/base.css ⚠
+
 # default.css
 
 > Default CSS to kickstart a new project. Alternative to CSS resets / normalize.
